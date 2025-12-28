@@ -1,0 +1,42 @@
+name: Feature Request
+description: Suggest a new feature or improvement
+title: "[FEATURE] "
+labels: ["feature request"]
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Please make sure to check the following before submitting a feature request
+
+        - [ ] I have read the [contribution guide](https://github.com/kestrelchat/.github/blob/master/.github/CONTRIBUTING.md)
+        - [ ] This feature is not already requested or planned
+
+  - type: input
+    id: feature_summary
+    attributes:
+      label: Summary
+      description: Provide a short summary of the feature
+      placeholder: Add dark mode support to the app
+
+  - type: textarea
+    id: motivation
+    attributes:
+      label: Motivation
+      description: Why this feature would be useful
+      placeholder: Users can work comfortably at night
+
+  - type: textarea
+    id: proposed_solution
+    attributes:
+      label: Proposed Solution
+      description: Optional solution or approach
+      placeholder: Implement theme toggle and store preference in local storage
+
+  - type: textarea
+    id: additional_context
+    attributes:
+      label: Additional Context
+      description: Any extra info, mockups, or links
+      placeholder: Add mockups, screenshots, or references here
