@@ -37,7 +37,7 @@ Thanks for your interest in contributing! This document outlines the expectation
 
 ## Conduct
 
-* Be respectful and constructive in discussions, reviews, and feedback.
+* Please follow our [Code of Conduct](https://github.com/kestrelchat/.github/blob/main/.github/CODE_OF_CONDUCT.md).
 
 ## What can I help with?
 
