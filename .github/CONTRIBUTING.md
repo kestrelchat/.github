@@ -5,10 +5,10 @@ Thanks for your interest in contributing! This document outlines the expectation
 ## Repository Lifecycle
 
 * Prefer to use the [Conventional Commit](https://www.conventionalcommits.org/) specification for commit messages and PR titles.
-* Sign your commits where possible. See GitHub’s documentation on [commit signature verification](https://docs.github.com/en/authentication/managing-commit-signature-verification/signing-commits).
+* Sign all commits. See GitHub’s documentation on [commit signature verification](https://docs.github.com/en/authentication/managing-commit-signature-verification/signing-commits).
 * Sign-off your commits using the Git `--signoff` flag. Read more about Developer Certificate of Origin (DCO) obligations at [https://developercertificate.org/](https://developercertificate.org/).
 
-  > Note: Commit signing (GPG/SSH) and commit sign-off (`Signed-off-by`) are separate. Sign-off is expected where possible; commit signing is strongly encouraged.
+  > Note: Commit signing (GPG/SSH) and commit sign-off (`Signed-off-by`) are separate. Both are required where possible; signing is strongly enforced.
 * If a formatter is present, use it (e.g. `prettier`, `cargo fmt`).
 * Keep each pull request focused on a single feature or change. Multiple closely related bug fixes may be acceptable.
 
