@@ -6,7 +6,9 @@
     <img src="https://img.shields.io/discord/1453177758233661706?style=for-the-badge&logo=discord&logoColor=white&color=6e6ade" />
   </a>
   <img src="https://img.shields.io/static/v1?label=Status&message=Development&style=for-the-badge&logoColor=white&color=6e6ade">
-  <img src="https://img.shields.io/opencollective/all/kestrelchat?style=for-the-badge&logoColor=white&label=financial%20contributors%20&color=6e6ade">
+  <a href="https://opencollective.com/kestrelchat">
+    <img src="https://img.shields.io/opencollective/all/kestrelchat?style=for-the-badge&label=contributors&logo=open-collective&logoColor=white&color=6e6ade" />
+  </a>
 </p>
 
 # About
